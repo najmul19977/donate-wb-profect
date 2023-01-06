@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.head-section{
+    background-image: url("../images/donation13.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 75vh;
+    background-size: cover;
+    margin-bottom: 80px;
+    
+}
+.head-description{
+    text-align: center;
+    padding-top: 150px;
+    
+}
+.head-title{
+    color: wheat;
+}
+.head-p{
+    color:#f7faf7;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+.btn-primary{
+    background-color:rgb(248, 6, 6);
+    color: rgb(252, 249, 249);
+    font-weight: 700px;
+    font-size: 14px;
+    border: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+/* main section */
+.main-section{
+    text-align: center;
+    margin-bottom: 80px;
+    margin:40px 170px;
+}
+.main-p{
+    font-weight: 400;
+    font-size: 14px;
+
+}
+.main1-p{
+    font-weight: 400;
+    font-size: 14px;
+
+}
+.tk-section{
+    
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 170px;
+}
+.div-tk{
+    
+    background-color: beige;
+    
+    gap: 30px;
+    padding: 10px 15px;
+    text-align: center;
+}
+.div-tk-2{
+    background-color: rgb(252, 217, 214);
+    
+    gap: 30px;
+    padding: 15px;
+    border: 1px solid red;
+
+}
+.main-part-2{
+    margin: 40px 170px;
+    text-align: center;
+}
+.main-p-2{
+    margin-bottom: 20px;
+}
+hr{
+    margin-bottom: 30px;
+}
+.main-plan{
+    text-align: center;
+    margin: 40px 200px;
+    
+}
+.main-h1{
+    font-size: 2rem;
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
+.main-card{
+    display: flex;
+    margin: 40px 150px;
+    gap: 25px;
+}
+.card-1{
+    background-color: lightblue;
+    padding: 10px;
+    box-shadow: 10px 5px 5px black;
+}
+.card-2{
+    background-color: lemonchiffon;
+    padding: 10px;
+    box-shadow: 10px 5px 5px black;
+
+}
+.card-3{
+    background-color: lightpink;
+    padding: 10px;
+    box-shadow: 10px 5px 5px black;
+
+}
+.main-card-2{
+    display: flex;
+    margin: 100px 150px;
+    gap: 35px;
+}
+.dont-card{
+
+}
+.card-h1{
+    font-size: 3rem;
+    margin: 20px 20px;
+
+}
+.dont-p{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.dont-img{
+    border: 0;
+    border-radius: 5px;
+
+}
+.section-card{
+   margin: 0 150px;
+   text-align: center;
+   margin-bottom: 50px;
+}
+input{
+    margin: 0 180px;
+}
+
+.foot-section{
+    background-color: black;
+    left: 0%;
+    right: 0%;
+    top: 95.52%;
+    bottom: 0%;
+    text-align: center;
+
+}
+.foot-h1{
+    font-weight: 400;
+    font-size: 36px;
+    color: #FF5959;
+    font-family: 'Lobster';
+    margin-top: 20px;
+    padding: 20px;
+}
+.foot-p{
+    font-weight: 400;
+    font-size: 14px;
+    color: #D9DBE1;
+    padding-bottom: 30px;
+}
